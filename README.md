@@ -11,7 +11,7 @@
 
 > $\textsf{\color{#389738}{chapter5. Segment Tree}}$
 
-> $\textsf{\color{#fbbc05}{chapter6. Divide \& Conquer}}$
+> $\textsf{\color{#fbbc05}{chapter6. Divide {\&} Conquer}}$
 
 >  $\textsf{\color{#f5750e}{chapter7. Game Theory}}$
 
