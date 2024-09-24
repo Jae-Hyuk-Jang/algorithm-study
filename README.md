@@ -1,20 +1,20 @@
 # $\textcolor{orange}{Algorithm\ Study}$
 
 
-> $\textsf{\color{#f5750e}{chapter1 NetworkFlow}}$
+> $\textsf{\color{#f5750e}{chapter1. NetworkFlow}}$
 
-> $\textsf{\color{#4285f4}{chapter2 퍼셉트론}}$
+> $\textsf{\color{#4285f4}{chapter2. SCC(Strongly Connected Component)}}$
 
-> $\textsf{\color{#ea4335}{chapter3 신경망}}$
+> $\textsf{\color{#ea4335}{chapter3. Topology Sort}}$
 
-> $\textsf{\color{white}{chapter4 신경망 학습}}$
+> $\textsf{\color{white}{chapter4. MO's Algorithm}}$
 
-> $\textsf{\color{#389738}{chapter5 오차역전법}}$
+> $\textsf{\color{#389738}{chapter5. Segment Tree}}$
 
-> $\textsf{\color{#fbbc05}{chapter6 학습 관련 기술들}}$
+> $\textsf{\color{#fbbc05}{chapter6. Divide & Conquer}}$
 
->  $\textsf{\color{#f5750e}{chapter7 합성곱 신경망(CNN)}}$
+>  $\textsf{\color{#f5750e}{chapter7. Game Theory}}$
 
-> $\textsf{\color{#FE2EF7}{chapter8 딥러닝}}$
+> $\textsf{\color{#FE2EF7}{chapter8. Convex Hull}}$
 
-> $\textsf{\color{#D8F781}{APPENDIX A Softmax-with-Loss 계층의 계산 그래프}}$
+> $\textsf{\color{#D8F781}{chapter9. Centroid Decomposition}}$
